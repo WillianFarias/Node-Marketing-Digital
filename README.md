@@ -8,6 +8,6 @@
 
 <p style='text-align: justify;'>Possuímos diferentes estratégias de marketing, não somente limitando-se a vendas, mas também tendo como objetivo o lucro.</p>
 
-<p style='text-align: justify;'>Você possui uma empresa muito interessante, caso possua interesse gostaria de fazer uma análise mais profunda de algumas informações para que possamos oferecer uma proposta mais completa para você.<p>
+<p style='text-align: justify;'>Você possui uma empresa muito interessante, caso possua interesse gostaria de fazer uma análise mais profunda de algumas informações para que possamos oferecer uma proposta mais completa para você. Para isto basta responder o seguinte formulário.<p>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeQMnskdQXlzEkaLCrqa4cjGuW3SaQnhsV-DlmFnXj_5x52Aw/viewform?embedded=true" width="640" height="1494" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+- [Formulário](https://forms.gle/JBpqrMEanLDbEpSD9)
