@@ -10,4 +10,4 @@
 
 <p style='text-align: justify;'>Você possui uma empresa muito interessante, caso possua interesse gostaria de fazer uma análise mais profunda de algumas informações para que possamos oferecer uma proposta mais completa para você. Para isto basta responder o seguinte formulário.<p>
 
-- [Formulário](https://forms.gle/JBpqrMEanLDbEpSD9)
+<a href="https://forms.gle/JBpqrMEanLDbEpSD9"><strong>Formulário</strong></a>
